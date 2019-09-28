@@ -5,4 +5,4 @@ Projeto simples em C projetado para auxiliar pessoas com deficiência visual a e
   Para o sistema adotam-se duas colunas e três linhas do teclado numérico como coordenadas correspondentes ao sistema Braille. Utilizam-se as teclas Enter/Intro e 0 (zero) como auxiliares para prosseguir e espaçar palavras de uma mesma frase; 
 
 Mais informações do funcionamento acessar: 
-  https://docs.google.com/presentation/d/1G8T-oYS37tj8o1znMEZ9GVxjtuyCHtALo9pCvHGaCyM/edit?usp=sharing
+  https://github.com/RafaZanezi/cme/blob/master/CMe%20Apresenta%C3%A7%C3%A3o.pptx
